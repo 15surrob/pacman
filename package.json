@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/15surrob/pacman/issues"
   },
-  "homepage": "https://github.com/15surrob/pacman#readme"
+  "homepage": "https://github.com/15surrob/pacman#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "standard": "^11.0.0"
+  }
 }
