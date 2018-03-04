@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/15surrob/pacman#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "hbs": "^4.0.1"
   },
   "devDependencies": {
     "standard": "^11.0.0"
