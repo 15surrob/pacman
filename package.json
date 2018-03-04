@@ -1,0 +1,19 @@
+{
+  "name": "pacman",
+  "version": "0.1.0",
+  "description": "Learning Pacman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/15surrob/pacman.git"
+  },
+  "author": "Robyn Surgison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/15surrob/pacman/issues"
+  },
+  "homepage": "https://github.com/15surrob/pacman#readme"
+}
